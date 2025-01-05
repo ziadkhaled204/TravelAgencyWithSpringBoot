@@ -1,4 +1,4 @@
-1 - create the database on MySQL
+1 - create the database on MySQL (you will find MySQL file with some data use it to create your database)
 
 2 - make sure that database connected well from the properties file
 
